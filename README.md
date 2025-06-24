@@ -1,32 +1,38 @@
-# Pauline_Portfolio
-Analytics Portfolio
+# 👩‍💻 Pauline Epsipha Israel Sekar
 
+**Data Analyst | Power BI Certified | Python • SQL • R • Snowflake| Advocate for ethical data and social impact**  
+Welcome to my portfolio! I’m passionate about using data to create accessible insights, solve real-world problems, and support community-driven goals.
 
-# [Project 1: Movie Recommendation System Model](https://github.com/RonitMalik/Movie-Recommendation-System-)
+---
 
-This is a project I did for my masters research paper, where I build a recommendation system for a movies dataset.
+## 🧠 About Me
 
-* Data was taken from the movielens dataset 
-* The model uses both; content-based filtering techniques and collaborative filtering techniques. 
-* Algorithms Used : K-Nearest Neightbours, TF-IDFS, Singular Value Decomposition Model (SVD), Alternatining least Square (ALS) 
-* Optimised the SVD & ALS model. 
-* The Project Write-up is published on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791837)
+- 🎓 Master's in Data Science — Monash University  
+- 📊 Microsoft Certified: Power BI Data Analyst Associate  
+- 🛠️ Skilled in Power BI, SQL, Python (Pandas, Scikit-learn), R, dbt, Snowflake  
+- 💡 Background in SAP S/4HANA support & volunteer data consulting  
+- 🌏 Focused on data for health, education, and not-for-profits
 
-## Overview Of The Singular Value Decomposition Architecture  
+---
 
-## Popular Movie Genres  
+## 📁 Featured Projects
 
+| Project | Summary | Tech Stack |
+|--------|---------|------------|
+| [📄 RAG Resume QA Chatbot](https://github.com/paulineepsipha/rag-resume-chatbot) | Built a Retrieval-Augmented Generation chatbot that answers resume-based queries using DeepSeek API | Python, ChromaDB, SentenceTransformers, Streamlit |
+| [🏔️ Avalanche Ski Gear Dashboard](https://github.com/paulineepsipha/avalanche-dashboard) | Interactive Power BI report visualising sales, sentiment, and logistics insights | Power BI, DAX, Excel |
+| [📈 Stock Volatility Prediction](https://github.com/paulineepsipha/stock-volatility-prediction) | ML model predicting monthly stock volatility from financial indicators | Python, Scikit-learn |
+| [🚴‍♂️ Tour de France Data Viz](https://github.com/paulineepsipha/tour-de-france-dashboard) | Built an interactive Shiny app and Tableau dashboards for exploratory analysis | R, Shiny, Tableau |
 
+---
 
-# [Project 2: Amazon Price Scrapper](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
+## 📫 Connect with Me
 
-This was part of a personal project where a python price scrapper was built in order to track prices for specific items on amazon and then send out email alerts. 
-The way the model works is you add a link to the amazon product and the price you're willing to buy the product at (Target Price) and then you can run the script and it will refresh the script every 24 hours and check the price for the product, as soon as the price of the product reaches your target price the scrapper will send you an email alert. 
+- 💼 [LinkedIn](https://linkedin.com/in/paulineepsipha)  
+- 🖥️ [GitHub](https://github.com/paulineepsipha)  
+- ✉️ paulineepsipha@gmail.com  
 
-I have also done an entire walkthrough video on youtube for the amazon price scapper and how you can build one too. [Click Here For Youtube Video](https://www.youtube.com/watch?v=vO668yAX3p8)
+---
 
-# [Project 3: Yahoo Finance Web Scrapping](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
+> “Data isn’t just numbers—it’s a story, a decision, and sometimes even a mission.”
 
-This project was part of my youtube channel where i build a yahoo finance web-scrapper to get stock prices from yahoo finance, I used the Yahoo_fin package to get the prices for various stock prices and ran further trend analysis. The main goal of this project was to explore the yahoo_fin package. 
-
-The following video for this project can be found on my [Youtube Channel](https://www.youtube.com/watch?v=AsxpHMq2auc&t=656s)
